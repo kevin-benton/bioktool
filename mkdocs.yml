@@ -1,9 +1,9 @@
-site_name: "[PROJECT NAME] - St. Jude"
-repo_url: "https://github.com/stjude[cloud]/REPO_NAME"
+site_name: "BioKTool - St. Jude"
+repo_url: "https://github.com/kevin-benton/bioktool"
 
-site_description: "[HIGH LEVEL DISCRIPTION.]"
+site_description: "Really awesome k based tool"
 site_author: "St. Jude Cloud"
-copyright: "© 2021 St. Jude Children's Research Hospital"
+copyright: "© 2023 St. Jude Children's Research Hospital"
 
 nav:
   - "Home": "index.md"
