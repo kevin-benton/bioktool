@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">
-    [PROJECT NAME]
+    Bioinformatics KTool
   </h1>
 
   <p align="center">
