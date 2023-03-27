@@ -25,7 +25,7 @@
 
 
   <p align="center">
-   [PROVIDE A HIGH LEVEL DESCRIPTION OF YOUR PROJECT] 
+   Really awesome k based tool.
    <br />
    <a href="#"><strong>Explore the docs »</strong></a>
    <br />
