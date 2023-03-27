@@ -61,9 +61,7 @@ Explain how to use the tool here.  Dive into the subcommands and optional flags.
 Provide contact information if the author of the code chooses to.  Issues are another effective way of communication as well.
 
 #### Limitations
-Are there any know limits to the tool.  Some examples of this might be:
-  - Does not run on OSX
-  - Version 1.2 of library XYZ causes `this` unexpected behavior
+None known.
 ---
 #### COPYRIGHT 
 Provide St Jude Copyright information here.  Make sure to update the year.
